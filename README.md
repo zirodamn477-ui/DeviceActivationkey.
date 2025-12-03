@@ -17,4 +17,10 @@
         "expirydate": "6-012-2025",
         "Allowoffline": false
     },
+        {
+        "device_id": "37fd69b46a6334de",
+        "key": "KEYMOTOTANGA",
+        "expirydate": "6-012-2025",
+        "Allowoffline": false
+    },
 ]
